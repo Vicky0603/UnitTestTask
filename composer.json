@@ -4,7 +4,6 @@
     "name": "",
     "type": "project",
     "description": "Demonstrates how to build unit tests with WordPress",
-    "homepage": "",
     "license": "GPL-3.0+",
     "require": {
         "php": ">=5.3.0"
